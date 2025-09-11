@@ -247,6 +247,4 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fali-ghazi78.github.io%2Falighazi%2F)
-
 ---
