@@ -247,6 +247,6 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 
-![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://ali-ghazi78.github.io/alighazi/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fali-ghazi78.github.io%2Falighazi%2F)
 
 ---
