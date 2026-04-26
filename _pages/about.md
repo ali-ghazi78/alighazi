@@ -45,7 +45,7 @@ Because of this wide range of experience, I’m confident in roles that require 
 1. **Seyed Ali Ghazi Asgar, Narasimha Reddy.**  
    *QuietPrint: Protecting 3D Printers Against Acoustic Side-Channel Attacks*  
    *12th ACM CyberPhysical System Security Workshop (CPSS ’26), June 01–05, 2026*  
-   [Paper Link](papers/cpss2026-final18.pdf)
+   [Paper Link](../papers/cpss2026-final18.pdf)
    
 2. **Seyed Ali Ghazi Asgar, Narasimha Reddy.**  
    *Analysis of Misconfigured IoT MQTT Deployments and a Lightweight Exposure Detection System*  
